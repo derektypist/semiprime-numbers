@@ -3,7 +3,7 @@ function getNumberInfo() {
     // Set Up Variable
     let txt = "";
     // Get the Value of the Input Field
-    let num = document.getElementById('numinfo').value;
+    let num = document.getElementById('mynumber').value;
     // Check if number is valid
     if (isNaN(num) || num.toString().length == 0 || num<2 || num>1000000 || !Number.isInteger(Number(num))) {
         txt += `Invalid Input.  Please enter a whole number between 2 and 1000000.`;
