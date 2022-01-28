@@ -16,10 +16,11 @@ function getNumberInfo() {
         } else {
             txt += `${num} is not a Semiprime Number.`;
         }
-
-        // Display Information in the Browser
-        document.getElementById('numinfo').innerHTML = txt;
     }
+
+    // Display Information in the Browser
+    document.getElementById('numinfo').innerHTML = txt;
+    
 }
 
 // Function to Determine if the Number is a Semiprime
