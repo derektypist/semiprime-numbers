@@ -38,3 +38,29 @@ As a user, I can clear the information or start again by clicking on the Reset B
 
 The number is an integer between 2 and 1000000.  The functions isSemiPrime and isPrime are boolean.
 
+## Features
+
+Allows the user to enter a number as well as getting the information for that number.  Performs checks on valid input.
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Google Fonts and Bootstrap 5.1.3.
+
+## Testing
+
+Ensure all the user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/semiprime-numbers) at the main branch.
+
+## Credits
+
+### Content
+
+Written by me.
+
+### Acknowlegements
+
+- [Wikipedia](https://en.wikipedia.org)
+- [FreeCodeCamp](https://www.freecodecamp.org)
