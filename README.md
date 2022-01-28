@@ -1,1 +1,3 @@
 # Semiprime Numbers
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Semiprime), a semiprime number is a natural number that is the product of exactly two prime numbers.  For example, 91 is a semiprime number, because its prime factors are 7 and 13.  The two primes in the product may equal each other, so the semiprimes include the squares of prime numbers.  For example, 9 is a semiprime number - its prime factors are 3.  The aim of the project is to investigate the numbers using HTML Forms and JavaScript.
